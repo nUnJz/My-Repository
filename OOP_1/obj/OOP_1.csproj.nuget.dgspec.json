@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Life\\Програмування\\Labs\\ООП\\OOP_1\\OOP_1\\OOP_1.csproj": {}
+    "C:\\OOP\\OOP_1\\OOP_1\\OOP_1.csproj": {}
   },
   "projects": {
-    "D:\\Life\\Програмування\\Labs\\ООП\\OOP_1\\OOP_1\\OOP_1.csproj": {
+    "C:\\OOP\\OOP_1\\OOP_1\\OOP_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Life\\Програмування\\Labs\\ООП\\OOP_1\\OOP_1\\OOP_1.csproj",
+        "projectUniqueName": "C:\\OOP\\OOP_1\\OOP_1\\OOP_1.csproj",
         "projectName": "OOP_1",
-        "projectPath": "D:\\Life\\Програмування\\Labs\\ООП\\OOP_1\\OOP_1\\OOP_1.csproj",
+        "projectPath": "C:\\OOP\\OOP_1\\OOP_1\\OOP_1.csproj",
         "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "D:\\Life\\Програмування\\Labs\\ООП\\OOP_1\\OOP_1\\obj\\",
+        "outputPath": "C:\\OOP\\OOP_1\\OOP_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",

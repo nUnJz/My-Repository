@@ -8,6 +8,7 @@ namespace Lab_7
     {
         static void Main(string[] args)
         {
+            // вносимо зміни до проєкту
             Console.OutputEncoding = System.Text.Encoding.Default;
             int i, k, count;
             int N;
